@@ -1,5 +1,5 @@
 #  LOAN PREDICTION USING CONSUMER BEHAVIOUR
-Predict who possible Defaulters are for the Consumer Loans Product
+Predict who are possible Defaulters are for the Consumer Loans Product
 
 # About the Dataset
 1.income : Income of the user int
@@ -28,4 +28,5 @@ Predict who possible Defaulters are for the Consumer Loans Product
 
 13.The risk_flag indicates whether there has been a default in the past or not.
 
-# 
+# About the Project
+The code performs data cleaning, preprocessing, exploratory data analysis, resampling of imbalanced dataset, encoding categorical data, and evaluates various models (Random Forest, K-Nearest Neighbors, Decision Tree, and XGBoost) for predicting loan defaulters. Random Forest Classifier achieved the highest accuracy among the models tested.
